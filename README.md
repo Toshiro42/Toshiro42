@@ -1,5 +1,32 @@
-# 💫 About Me:
-Computer Science undergraduate focused on building secure, scalable, and user-centric applications. I work across mobile, backend, and API-driven systems, with a strong interest in security, real-world problem solving, and clean system design.<br>Building and improving full-stack and mobile applications with a focus on security, API integration, and real-world deployment (Spring Boot, Flutter, and cloud platforms).<br>Backend systems, Android/Flutter apps, or open-source projects involving APIs, security, or real-time user interactions.<br>System design, writing production-level backend services, and improving scalability, performance, and clean architecture practices.<br>Spring Boot (advanced), JWT authentication & security, REST API design, database optimization, and scalable application architecture.<br>Java, Spring Boot, REST APIs, Flutter apps, API integrations, security concepts, and building end-to-end projects.<br>I’ve built a privacy-first Android app that scans installed apps using SHA-256 hashes without uploading any user data.
+## 🧑‍💻 About Me
+
+ Computer Science undergraduate focused on building secure, scalable, and user-centric applications.
+
+ Strong interest in:
+- Security-focused development
+- Backend systems & APIs
+- Real-world problem solving
+
+ What I do:
+- Build full-stack and mobile applications (Spring Boot + Flutter)
+- Work with REST APIs and cloud deployments (AWS / GCP)
+- Focus on clean architecture and performance
+
+ Currently working on:
+- Improving backend systems with Spring Boot
+- Building secure and privacy-first applications
+
+ Currently learning:
+- Advanced Spring Boot & JWT Security
+- System Design & Scalable Architectures
+
+ Ask me about:
+- Java, Spring Boot, REST APIs
+- Flutter & Android development
+- API integrations & security concepts
+
+ Fun fact:
+I built a privacy-first Android app that scans installed apps using SHA-256 without uploading any user data.
 
 
 ## 🌐 Socials:
