@@ -1,32 +1,12 @@
-## 🧑‍💻 About Me
+## 💡 About Me
 
- Computer Science undergraduate focused on building secure, scalable, and user-centric applications.
+I am a Computer Science undergraduate focused on building secure, scalable, and user-centric applications. My work spans across backend systems, mobile development, and API-driven architectures, with a strong emphasis on clean design and real-world usability.
 
- Strong interest in:
-- Security-focused development
-- Backend systems & APIs
-- Real-world problem solving
+I have hands-on experience developing full-stack and Android applications using technologies like Spring Boot and Flutter, along with integrating REST APIs and deploying applications on cloud platforms such as AWS and GCP. I am particularly interested in security-focused development, where I aim to build systems that are both efficient and privacy-conscious.
 
- What I do:
-- Build full-stack and mobile applications (Spring Boot + Flutter)
-- Work with REST APIs and cloud deployments (AWS / GCP)
-- Focus on clean architecture and performance
+Currently, I am working on improving my backend development skills, especially in areas like authentication, system design, and scalable architecture. I am also exploring best practices for writing production-level code and building applications that can handle real-world use cases reliably.
 
- Currently working on:
-- Improving backend systems with Spring Boot
-- Building secure and privacy-first applications
-
- Currently learning:
-- Advanced Spring Boot & JWT Security
-- System Design & Scalable Architectures
-
- Ask me about:
-- Java, Spring Boot, REST APIs
-- Flutter & Android development
-- API integrations & security concepts
-
- Fun fact:
-I built a privacy-first Android app that scans installed apps using SHA-256 without uploading any user data.
+I enjoy solving practical problems through code and continuously learning new technologies that help me build better systems. I am always open to collaborating on meaningful projects and contributing to work that has real impact.
 
 
 ## 🌐 Socials:
