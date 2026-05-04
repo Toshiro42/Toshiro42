@@ -1,4 +1,4 @@
-## 💡 About Me
+## 💡About Me
 
 I am a Computer Science undergraduate focused on building secure, scalable, and user-centric applications. My work spans across backend systems, mobile development, and API-driven architectures, with a strong emphasis on clean design and real-world usability.
 
